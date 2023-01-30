@@ -1,5 +1,23 @@
 {
+  "name": "test",
+  "description": "Тестовый репозиторий",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseezov/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sseezov/test/issues"
+  },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "homepage": "https://github.com/sseezov/test#readme"
 }
